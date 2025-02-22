@@ -17,7 +17,9 @@ Features
 ✅ Responsive Layout - Ensures smooth experience across different screen sizes.
 
 
+
 Technologies Used
+
 
 HTML5 - Structure of the webpage
 
@@ -39,13 +41,20 @@ CSS3 - Styling and layout
 
 │── README.md         # Project description
 
+
 How to Use?
+
 1.Clone the repository:
+
 git clone https://github.com/your-username/calm-headphones.git
+
 
 2. Open index.html in your browser.
 
+
 Live Demo
+
+
 You can host this project using GitHub Pages, Netlify, or Vercel and add the link here.
 
 
